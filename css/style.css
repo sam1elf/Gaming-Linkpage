@@ -1,0 +1,87 @@
+body {
+    background: #828a96;
+    color: #8e949e;
+    font-size: 100%;
+    font-family: Helvetica;
+    font-weight: 100;
+    margin: 0em;
+    padding: 0em;
+}
+
+header {
+    font-size: 1.5em;
+    background: #1a212d;
+    margin: 0em;
+    padding: 1px;
+    text-align: center;
+}
+
+#games h1 {
+    background: #1a212d;
+    margin: 3%;
+    padding: 0em;
+    font-size: 1.8em;
+    text-align: center;
+}
+
+#games h3 {
+    color: #1a212d;
+    font-size: 1.3em;
+    margin: 0em 0.5em 0em 0.5em;
+    padding-left: 30px;
+}
+
+#diablo3 {
+    float: left;
+    padding-left: 30px;
+    width: 250px;
+}
+#diablo3 img {
+    width: 130px;
+    height: auto;
+    padding: 0.24em;
+}
+#diablo3 ul{
+    list-style: none;
+}
+#shopping {
+    float: left;
+    padding-left: 30px;
+}
+#shopping img {
+    width: 200px;
+    height: auto;
+    padding: 0.24em;
+}
+#shopping ul li img Support-Monk{
+    width: 100px;
+}
+#shopping ul{
+    list-style: none;
+}
+#news {
+    float: left;
+    padding-left: 30px;
+}
+#news img {
+    width: 200px;
+    height: auto;
+    padding: 0.24em;
+}
+#news ul{
+    list-style: none;
+}
+#boerse {
+    float: left;
+    padding-left: 30px;
+}
+#boerse img {
+    width: 200px;
+    height: auto;
+    padding: 0.24em;
+}
+#boerse ul{
+    list-style: none;
+}
+
+
